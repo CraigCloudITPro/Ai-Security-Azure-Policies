@@ -1,4 +1,4 @@
-{
+{ 
   "properties": {
     "displayName": "Deny deployment of Azure AI Services without restricted network access",
     "policyType": "BuiltIn",
