@@ -1,4 +1,4 @@
-{
+{ 
   "properties": {
     "displayName": "Deny deployment of Azure AI Services with local authentication enabled",
     "policyType": "BuiltIn",
